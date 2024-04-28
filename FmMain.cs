@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,7 +17,12 @@ namespace CodeGenerator
 {
     public partial class FmMain : Form
     {
+        string ServerIP = string.Empty;
+        string UserID = string.Empty;
+        string Password = string.Empty;
+
         DataTable dtTableInfo = new DataTable();
+        clsGetDBInfo getDBInfo { get; set; }
         clsCodeGenerator CodeGenerator { get; set; }
         bool IsCreateSPInDBEnabled
         {
@@ -35,6 +41,7 @@ namespace CodeGenerator
         {
             DataTable DBsName = clsGetDBInfo.GetDatabasesName();
             
+            if(DBsName != null)
             foreach(DataRow row in DBsName.Rows)
             {
                 cbDatabases.Items.Add(row["name"]);
@@ -50,6 +57,7 @@ namespace CodeGenerator
 
             cbTablesName.Items.Clear();
 
+            if(TablesName != null)   
             foreach(DataRow row in TablesName.Rows)
             {
                 cbTablesName.Items.Add(row["TABLE_NAME"]);
@@ -58,11 +66,14 @@ namespace CodeGenerator
 
         private void cbTablesName_SelectedIndexChanged(object sender, EventArgs e)
         {
-            tbSingleTableName.Text = cbTablesName.Text.Substring(0,
-                cbTablesName.Text.Length-1);
-
             dtTableInfo = clsGetDBInfo.GetTableInfo(cbDatabases.Text, cbTablesName.Text);
-            dataGridView1.DataSource = dtTableInfo;
+
+            if(dtTableInfo != null)
+            {
+                tbSingleTableName.Text = cbTablesName.Text.Substring(0,
+                cbTablesName.Text.Length - 1);
+                dataGridView1.DataSource = dtTableInfo;
+            }
         }
 
         private void rbDynamicSQL_CheckedChanged(object sender, EventArgs e)
@@ -166,6 +177,23 @@ namespace CodeGenerator
 
             MessageBox.Show("Business layer code has been copied successfully.", "Copied Successfully",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            FmConnectionStringSettings connectionStringSettings = new FmConnectionStringSettings();
+            connectionStringSettings.ShowDialog();
+            cbDatabases.Items.Clear();
+            cbTablesName.Items.Clear();
+            tbSingleTableName.Clear();
+
+            DataTable DBsName = clsGetDBInfo.GetDatabasesName();
+
+            if (DBsName != null)
+                foreach (DataRow row in DBsName.Rows)
+                {
+                    cbDatabases.Items.Add(row["name"]);
+                }
         }
     }
 

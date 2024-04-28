@@ -13,3 +13,4 @@ C:\Users\Asus\source\repos\CodeGenerator\bin\Debug\CodeGenerator_DataAccessLayer
 C:\Users\Asus\source\repos\CodeGenerator\bin\Debug\CodeGenerator_BusinessLayer.pdb
 C:\Users\Asus\source\repos\CodeGenerator\bin\Debug\CodeGenerator_DataAccessLayer.pdb
 C:\Users\Asus\source\repos\CodeGenerator\obj\Debug\CodeGene.5CC6BE46.Up2Date
+C:\Users\Asus\source\repos\CodeGenerator\obj\Debug\CodeGenerator.FmConnectionStringSettings.resources

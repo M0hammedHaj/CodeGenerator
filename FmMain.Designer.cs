@@ -56,10 +56,12 @@
             this.gbCreateSPInDB = new System.Windows.Forms.GroupBox();
             this.rbDoNotCreateSPInDB = new System.Windows.Forms.RadioButton();
             this.rbCreateSPInDB = new System.Windows.Forms.RadioButton();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.gbType.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.gbCreateSPInDB.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -354,13 +356,28 @@
             this.rbCreateSPInDB.Text = "Yes";
             this.rbCreateSPInDB.UseVisualStyleBackColor = true;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox1.Image = global::CodeGenerator.Properties.Resources.wifi;
+            this.pictureBox1.Location = new System.Drawing.Point(1278, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(68, 55);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 26;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // FmMain
             // 
+            this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnableAllowFocusChange;
-            this.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(1370, 749);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.gbCreateSPInDB);
             this.Controls.Add(this.gbType);
             this.Controls.Add(this.btnCopyBusinessLayerCode);
@@ -395,6 +412,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.gbCreateSPInDB.ResumeLayout(false);
             this.gbCreateSPInDB.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -429,6 +447,7 @@
         private System.Windows.Forms.GroupBox gbCreateSPInDB;
         private System.Windows.Forms.RadioButton rbDoNotCreateSPInDB;
         private System.Windows.Forms.RadioButton rbCreateSPInDB;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
