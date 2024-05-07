@@ -3,35 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|c:\\users\\asus\\source\\repos\\codegenerator\\fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clscodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clscreatespindbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clsdataaccesslayergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clsgetdbinfodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|solutionrelative:fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clsbusinesslayergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|solutionrelative:fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\fmconnectionstringsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|solutionrelative:fmconnectionstringsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clsconnectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\fmconnectionstringsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|solutionrelative:fmconnectionstringsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clsgetdbinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clsconnectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clsgetdbinfodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clscodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\fmconnectionstringsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|solutionrelative:fmconnectionstringsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -40,12 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|C:\\Users\\Asus\\source\\repos\\CodeGenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D09FF7E9-FEEE-4D04-9D20-F92814EFDEC9}|CodeGenerator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{443231DC-655B-41EE-B418-F1CD7F806B12}|..\\CodeGenerator_BusinessLayer\\CodeGenerator_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_businesslayer\\clsdataaccesslayergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C70AC8E1-488E-45B0-B2C4-ADFC657196C4}|..\\CodeGenerator_DataAccessLayer\\CodeGenerator_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\codegenerator_dataaccesslayer\\clscreatespindbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,59 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FmMain.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmMain.cs",
-              "RelativeDocumentMoniker": "FmMain.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmMain.cs",
-              "RelativeToolTip": "FmMain.cs",
-              "ViewState": "AQIAALUAAAAAAAAAAAA4wMMAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "clsCodeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
+              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:36:01.154Z",
+              "WhenOpened": "2024-04-28T07:45:54.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FmConnectionStringSettings.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs",
-              "RelativeDocumentMoniker": "FmConnectionStringSettings.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs [Design]",
-              "RelativeToolTip": "FmConnectionStringSettings.cs [Design]",
+              "Title": "clsDataAccessLayerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
+              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwPcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T19:17:36.353Z"
+              "WhenOpened": "2024-04-21T08:44:07.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FmConnectionStringSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs",
-              "RelativeDocumentMoniker": "FmConnectionStringSettings.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs",
-              "RelativeToolTip": "FmConnectionStringSettings.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAqwGkAAAAdAAAA",
+              "Title": "clsGetDBInfoDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
+              "RelativeToolTip": "..\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwFcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T19:35:30.612Z"
+              "WhenOpened": "2024-04-21T08:56:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCreateSPInDBDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
+              "RelativeToolTip": "..\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAANUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:53:42.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "clsGetDBInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsGetDBInfo.cs",
-              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsGetDBInfo.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsGetDBInfo.cs",
-              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsGetDBInfo.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T07:21:22.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FmMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmMain.cs",
               "RelativeDocumentMoniker": "FmMain.cs",
@@ -119,39 +126,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsGlobal.cs",
+              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsGlobal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:37:35.863Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "clsBusinessLayerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsBusinessLayerGenerator.cs",
+              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsBusinessLayerGenerator.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsBusinessLayerGenerator.cs",
+              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsBusinessLayerGenerator.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAawKkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:22:06.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "clsConnectionSettings.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsConnectionSettings.cs",
               "RelativeDocumentMoniker": "..\\CodeGenerator_DataAccessLayer\\clsConnectionSettings.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsConnectionSettings.cs",
               "RelativeToolTip": "..\\CodeGenerator_DataAccessLayer\\clsConnectionSettings.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:51:45.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "clsGetDBInfoDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
-              "RelativeToolTip": "..\\CodeGenerator_DataAccessLayer\\clsGetDBInfoDataAccess.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAiwCwAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T08:56:38.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "clsCodeGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
-              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
-              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsCodeGenerator.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T07:45:54.547Z"
             },
             {
               "$type": "Document",
@@ -161,13 +168,51 @@
               "RelativeDocumentMoniker": "..\\CodeGenerator_DataAccessLayer\\clsGlobal.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsGlobal.cs",
               "RelativeToolTip": "..\\CodeGenerator_DataAccessLayer\\clsGlobal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:08:09.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "FmConnectionStringSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs",
+              "RelativeDocumentMoniker": "FmConnectionStringSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs",
+              "RelativeToolTip": "FmConnectionStringSettings.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAqwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:35:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmMain.cs",
+              "RelativeDocumentMoniker": "FmMain.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmMain.cs",
+              "RelativeToolTip": "FmMain.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAswGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:36:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FmConnectionStringSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs",
+              "RelativeDocumentMoniker": "FmConnectionStringSettings.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\FmConnectionStringSettings.cs [Design]",
+              "RelativeToolTip": "FmConnectionStringSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:17:36.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
@@ -175,11 +220,12 @@
               "RelativeToolTip": "Properties\\Resources.resx",
               "ViewState": "AQIAAGsAAAAAAAAAAADgv3cAAACKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-04-27T19:13:00.669Z"
+              "WhenOpened": "2024-04-27T19:13:00.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -188,30 +234,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T21:04:12.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "clsCreateSPInDBDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
-              "RelativeDocumentMoniker": "..\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
-              "RelativeToolTip": "..\\CodeGenerator_DataAccessLayer\\clsCreateSPInDBDataAccess.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAUwKIAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T09:53:42.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "clsDataAccessLayerGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
-              "RelativeDocumentMoniker": "..\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
-              "RelativeToolTip": "..\\CodeGenerator_BusinessLayer\\clsDataAccessLayerGenerator.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAiwIkBAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T08:44:07.314Z"
             }
           ]
         }

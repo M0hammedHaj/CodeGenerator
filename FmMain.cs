@@ -172,20 +172,30 @@ namespace CodeGenerator
         {
             if (string.IsNullOrWhiteSpace(rtbBusiness.Text))
                 return;
-
+            
             Clipboard.SetText(rtbBusiness.Text);
 
             MessageBox.Show("Business layer code has been copied successfully.", "Copied Successfully",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void Clear()
         {
-            FmConnectionStringSettings connectionStringSettings = new FmConnectionStringSettings();
-            connectionStringSettings.ShowDialog();
             cbDatabases.Items.Clear();
             cbTablesName.Items.Clear();
             tbSingleTableName.Clear();
+
+            dataGridView1.DataSource = null;
+
+            rtbBusiness.Text = string.Empty;
+            rtbDataAccess.Text = string.Empty;
+
+            chbAddUpdate.Checked = false;
+            chbDelete.Checked = false;
+            chbFind.Checked = false;
+            chbGetAll.Checked = false;
+            chbIsExist.Checked = false;
+
+            rbDynamicSQL.Checked = true;
 
             DataTable DBsName = clsGetDBInfo.GetDatabasesName();
 
@@ -194,6 +204,12 @@ namespace CodeGenerator
                 {
                     cbDatabases.Items.Add(row["name"]);
                 }
+        }
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            FmConnectionStringSettings connectionStringSettings = new FmConnectionStringSettings();
+            connectionStringSettings.Clear = Clear;
+            connectionStringSettings.ShowDialog();
         }
     }
 

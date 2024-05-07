@@ -81,6 +81,8 @@ namespace CodeGenerator
             }
         }
 
+        public delegate void dgClear();
+        public dgClear Clear;
         private void btnSave_Click(object sender, EventArgs e)
         {
             if (!ValidateChildren())
@@ -101,9 +103,12 @@ namespace CodeGenerator
                 streamWriter.WriteLine(NewConnectionString);
             }
 
-            if (MessageBox.Show("New connection string saved Successfully", "Saved", MessageBoxButtons.OK,
-                MessageBoxIcon.Information) == DialogResult.OK)
-                this.Close();
+            Clear.Invoke();
+
+            MessageBox.Show("New connection string saved Successfully", "Saved", MessageBoxButtons.OK,
+                MessageBoxIcon.Information);
+
+            this.Close();
         }
     }
 }

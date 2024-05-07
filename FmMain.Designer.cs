@@ -140,13 +140,13 @@
             this.label3.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(11, 103);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(201, 23);
+            this.label3.Size = new System.Drawing.Size(127, 23);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Single Table Name :";
+            this.label3.Text = "Row Name :";
             // 
             // tbSingleTableName
             // 
-            this.tbSingleTableName.Location = new System.Drawing.Point(218, 106);
+            this.tbSingleTableName.Location = new System.Drawing.Point(157, 106);
             this.tbSingleTableName.Name = "tbSingleTableName";
             this.tbSingleTableName.Size = new System.Drawing.Size(137, 20);
             this.tbSingleTableName.TabIndex = 11;
