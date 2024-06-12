@@ -132,6 +132,7 @@ namespace CodeGenerator
             if (string.IsNullOrWhiteSpace(rtbDataAccess.Text))
                 return;
 
+            Clipboard.Clear();
             Clipboard.SetText(rtbDataAccess.Text);
 
             MessageBox.Show("DataAccess layer code has been copied successfully.","Copied Successfully",
